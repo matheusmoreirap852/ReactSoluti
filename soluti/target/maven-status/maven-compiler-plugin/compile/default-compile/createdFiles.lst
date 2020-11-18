@@ -1,0 +1,7 @@
+com\soluti\backend\util\MeuBackEndException.class
+com\soluti\backend\entidade\Usuario.class
+com\soluti\backend\BackendApplication.class
+com\soluti\backend\controle\UsuarioController.class
+com\soluti\backend\negocio\UsuarioServiceImpl.class
+com\soluti\backend\persistencia\UsuarioRepository.class
+com\soluti\backend\negocio\UsuarioService.class
